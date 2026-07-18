@@ -191,9 +191,6 @@ restaurant-sales-performance-analysis
 
 
 
-# STEP 3.16 — Author
-
-```markdown
 ## 👨‍💻 Author
 
 **Muhammad Ali**
