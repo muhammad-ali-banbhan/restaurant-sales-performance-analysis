@@ -111,7 +111,97 @@ The following analyses were performed:
 - Business Performance Evaluation
 
 
+## 📈 Key Findings
 
+### Year-on-Year Performance
+- Total sales decreased from **£6.53M** in 2024 to **£6.25M** in 2025.
+- Overall sales declined by approximately **4.3%**.
+
+### Restaurant Performance
+- **London** recorded the highest sales performance.
+- **Birmingham** generated the lowest total sales.
+- Sales performance varied noticeably across restaurant locations.
+
+### Weekly Sales Trend
+- Week **21** recorded the highest sales (**£1.64M**).
+- Week **27** showed the lowest sales (**£0.26M**), indicating either reduced demand or incomplete reporting for that week.
+
+### Overall Business Insight
+- While overall performance remained strong, the decline in sales suggests opportunities to improve operational efficiency and revenue growth.
+
+
+
+## 📈 Key Findings
+
+### Year-on-Year Performance
+- Total sales decreased from **£6.53M** in 2024 to **£6.25M** in 2025.
+- Overall sales declined by approximately **4.3%**.
+
+### Restaurant Performance
+- **London** recorded the highest sales performance.
+- **Birmingham** generated the lowest total sales.
+- Sales performance varied noticeably across restaurant locations.
+
+### Weekly Sales Trend
+- Week **21** recorded the highest sales (**£1.64M**).
+- Week **27** showed the lowest sales (**£0.26M**), indicating either reduced demand or incomplete reporting for that week.
+
+### Overall Business Insight
+- While overall performance remained strong, the decline in sales suggests opportunities to improve operational efficiency and revenue growth.
+
+
+
+## 🎯 Skills Demonstrated
+
+### Technical Skills
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- VLOOKUP
+- Data Cleaning
+- Data Validation
+- Business Reporting
+- Data Visualization
+
+### Analytical Skills
+
+- Sales Performance Analysis
+- Trend Analysis
+- Business Intelligence
+- Insight Generation
+- Data Storytelling
+- Decision Support
+
+
+## 📁 Repository Structure
+
+```text
+restaurant-sales-performance-analysis
+
+├── README.md
+├── LICENSE
+├── docs
+│   └── Restaurant Sales Performance Analysis.pdf
+└── images
+    ├── yoy-sales.png
+    ├── restaurant-performance.png
+    ├── weekly-trend.png
+    └── site-comparison.png
+
+
+
+# STEP 3.16 — Author
+
+```markdown
+## 👨‍💻 Author
+
+**Muhammad Ali**
+
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, SQL, Python, and Power BI.
+
+- LinkedIn: *(https://github.com/muhammad-ali-banbhan)*
+- GitHub: *(https://www.linkedin.com/in/muhammad-ali-banbhan/)*
 
 
 
