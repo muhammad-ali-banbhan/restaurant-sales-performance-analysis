@@ -190,6 +190,50 @@ restaurant-sales-performance-analysis
     └── site-comparison.png
 
 
+## 🖼️ Project Preview
+
+### Year-on-Year Sales Performance
+
+![YoY Sales](images/yoy-sales.png)
+
+---
+
+### Restaurant Performance
+
+![Restaurant Performance](images/restaurant-performance.png)
+
+---
+
+### Weekly Sales Trend
+
+![Weekly Trend](images/weekly-trend.png)
+
+---
+
+### Site Performance Comparison
+
+![Site Comparison](images/site-comparison.png)
+
+
+## 📄 Project Report
+
+The complete business analysis report is available below.
+
+📄 **[Restaurant Sales Performance Analysis](docs/Restaurant%20Sales%20Performance%20Analysis.pdf)**
+
+
+
+## 🚀 Future Improvements
+
+Future versions of this project may include:
+
+- Interactive Power BI Dashboard
+- SQL-based Data Extraction
+- Python Exploratory Data Analysis (EDA)
+- Predictive Sales Forecasting
+- KPI Dashboard Development
+
+
 
 ### 👨‍💻 Author
 
